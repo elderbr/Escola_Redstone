@@ -4,8 +4,16 @@
 		"when":{"facing":"down", "triggered":"false"},
 		"apply":{"model": "block/dispenser_vertical","x": 180}
 	},
+	{
+		"when":{"facing":"down", "triggered":"true"},
+		"apply":{"model": "block/dispenser_vertical","x": 180}
+	},
     {
 		"when":{"facing": "up", "triggered":"false"},
+		"apply":{"model": "block/dispenser_vertical"}
+	},
+    {
+		"when":{"facing": "up", "triggered":"true"},
 		"apply":{"model": "block/dispenser_vertical"}
 	},
     {

@@ -1,0 +1,100 @@
+{
+    "multipart": [
+        {
+            "when": {
+                "enabled": "true",
+                "facing": "down"
+            },
+            "apply": {
+                "model": "block/hopper"
+            }
+        },
+        {
+            "when": {
+                "enabled": "false",
+                "facing": "down"
+            },
+            "apply": {
+                "model": "block/hopper"
+            }
+        },
+        {
+            "when": {
+                "enabled": "true",
+                "facing": "north"
+            },
+            "apply": {
+                "model": "block/hopper_side"
+            }
+        },
+        {
+            "when": {
+                "enabled": "false",
+                "facing": "north"
+            },
+            "apply": {
+                "model": "block/hopper_side_off"
+            }
+        },
+        {
+            "when": {
+                "enabled": "true",
+                "facing": "south"
+            },
+            "apply": {
+                "model": "block/hopper_side",
+                "y": 180
+            }
+        },
+        {
+            "when": {
+                "enabled": "false",
+                "facing": "south"
+            },
+            "apply": {
+                "model": "block/hopper_side_off",
+                "y": 180
+            }
+        },
+        {
+            "when": {
+                "enabled": "true",
+                "facing": "west"
+            },
+            "apply": {
+                "model": "block/hopper_side",
+                "y": 270
+            }
+        },
+        {
+            "when": {
+                "enabled": "false",
+                "facing": "west"
+            },
+            "apply": {
+                "model": "block/hopper_side_off",
+                "y": 270
+            }
+        },
+        {
+            "when": {
+                "enabled": "true",
+                "facing": "east"
+            },
+            "apply": {
+                "model": "block/hopper_side",
+                "y": 90
+            }
+        },
+        {
+            "when": {
+                "enabled": "false",
+                "facing": "east"
+            },
+            "apply": {
+                "model": "block/hopper_side_off",
+                "y": 90
+            }
+        }
+    ]
+}

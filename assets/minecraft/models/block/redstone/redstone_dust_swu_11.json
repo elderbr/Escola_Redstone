@@ -1,0 +1,10 @@
+{
+  "credit": "ElderBR",
+  "parent": "block/redstone/template_redstone_dust_swu",
+  "textures": {
+    "particle": "block/redstone_dust_dot",
+    "power": "block/redstone/power11",
+    "continue": "block/redstone/power10",
+    "number": "block/redstone/level11"
+  }
+}

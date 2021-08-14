@@ -1,0 +1,38 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"1": "block/redstone_dust_overlay",
+		"debug": "block/bug",
+		"particle": "block/redstone_dust_overlay"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 15],
+			"to": [10, 18, 16],
+			"shade": false,
+			"faces": {
+				"north": {"uv": [12, 11, 13, 12], "texture": "#debug", "tintindex": 0},
+				"east": {"uv": [12, 11, 13, 12], "texture": "#debug"},
+				"south": {"uv": [12, 11, 13, 12], "texture": "#debug"},
+				"west": {"uv": [12, 11, 13, 12], "texture": "#debug"},
+				"up": {"uv": [12, 11, 13, 12], "texture": "#debug"},
+				"down": {"uv": [12, 11, 13, 12], "texture": "#debug"}
+			}
+		},
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 0],
+			"shade": false,
+			"rotation": {"angle": 0, "axis": "y", "origin": [-6, 0, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"east": {"uv": [12, 11, 13, 12], "texture": "#debug"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [12, 11, 13, 12], "texture": "#debug"},
+				"up": {"uv": [12, 11, 13, 12], "texture": "#debug"},
+				"down": {"uv": [12, 11, 13, 12], "texture": "#debug"}
+			}
+		}
+	]
+}

@@ -1,0 +1,290 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "inverted": false
+      },
+      "apply": {
+        "model": "block/daylight_detector/daylight_detector"
+      }
+    },
+    {
+      "when": {
+        "inverted": true
+      },
+      "apply": {
+        "model": "block/daylight_detector/daylight_detector_inverted"
+      }
+    },
+    {
+      "when": {
+        "power": 1,
+        "inverted": false
+      },
+      "apply": {
+        "model": "block/daylight_detector/daylight_detector_power01"
+      }
+    },
+    {
+      "when": {
+        "power": 1,
+        "inverted": true
+      },
+      "apply": {
+        "model": "block/daylight_detector/daylight_detector_invered_power01"
+      }
+    },
+    {
+      "when": {
+        "power": 2,
+        "inverted": false
+      },
+      "apply": {
+        "model": "block/daylight_detector/daylight_detector_power02"
+      }
+    },
+    {
+      "when": {
+        "power": 2,
+        "inverted": true
+      },
+      "apply": {
+        "model": "block/daylight_detector/daylight_detector_invered_power02"
+      }
+    },
+    {
+      "when": {
+        "power": 3,
+        "inverted": false
+      },
+      "apply": {
+        "model": "block/daylight_detector/daylight_detector_power03"
+      }
+    },
+    {
+      "when": {
+        "power": 3,
+        "inverted": true
+      },
+      "apply": {
+        "model": "block/daylight_detector/daylight_detector_invered_power03"
+      }
+    },
+    {
+      "when": {
+        "power": 4,
+        "inverted": false
+      },
+      "apply": {
+        "model": "block/daylight_detector/daylight_detector_power04"
+      }
+    },
+    {
+      "when": {
+        "power": 4,
+        "inverted": true
+      },
+      "apply": {
+        "model": "block/daylight_detector/daylight_detector_invered_power04"
+      }
+    },
+    {
+      "when": {
+        "power": 5,
+        "inverted": false
+      },
+      "apply": {
+        "model": "block/daylight_detector/daylight_detector_power05"
+      }
+    },
+    {
+      "when": {
+        "power": 5,
+        "inverted": true
+      },
+      "apply": {
+        "model": "block/daylight_detector/daylight_detector_invered_power05"
+      }
+    },
+    {
+      "when": {
+        "power": 6,
+        "inverted": false
+      },
+      "apply": {
+        "model": "block/daylight_detector/daylight_detector_power06"
+      }
+    },
+    {
+      "when": {
+        "power": 6,
+        "inverted": true
+      },
+      "apply": {
+        "model": "block/daylight_detector/daylight_detector_inverted_power06"
+      }
+    },
+    {
+      "when": {
+        "power": 7,
+        "inverted": false
+      },
+      "apply": {
+        "model": "block/daylight_detector/daylight_detector_power07"
+      }
+    },
+    {
+      "when": {
+        "power": 7,
+        "inverted": true
+      },
+      "apply": {
+        "model": "block/daylight_detector/daylight_detector_inverted_power07"
+      }
+    },
+    {
+      "when": {
+        "power": 8,
+        "inverted": false
+      },
+      "apply": {
+        "model": "block/daylight_detector/daylight_detector_power08"
+      }
+    },
+    {
+      "when": {
+        "power": 8,
+        "inverted": true
+      },
+      "apply": {
+        "model": "block/daylight_detector/daylight_detector_inverted_power08"
+      }
+    },
+    {
+      "when": {
+        "power": 9,
+        "inverted": false
+      },
+      "apply": {
+        "model": "block/daylight_detector/daylight_detector_power09"
+      }
+    },
+    {
+      "when": {
+        "power": 9,
+        "inverted": true
+      },
+      "apply": {
+        "model": "block/daylight_detector/daylight_detector_inverted_power09"
+      }
+    },
+    {
+      "when": {
+        "power": 10,
+        "inverted": false
+      },
+      "apply": {
+        "model": "block/daylight_detector/daylight_detector_power10"
+      }
+    },
+    {
+      "when": {
+        "power": 10,
+        "inverted": true
+      },
+      "apply": {
+        "model": "block/daylight_detector/daylight_detector_inverted_power10"
+      }
+    },
+    {
+      "when": {
+        "power": 11,
+        "inverted": false
+      },
+      "apply": {
+        "model": "block/daylight_detector/daylight_detector_power11"
+      }
+    },
+    {
+      "when": {
+        "power": 11,
+        "inverted": true
+      },
+      "apply": {
+        "model": "block/daylight_detector/daylight_detector_inverted_power11"
+      }
+    },
+    {
+      "when": {
+        "power": 12,
+        "inverted": false
+      },
+      "apply": {
+        "model": "block/daylight_detector/daylight_detector_power12"
+      }
+    },
+    {
+      "when": {
+        "power": 12,
+        "inverted": true
+      },
+      "apply": {
+        "model": "block/daylight_detector/daylight_detector_inverted_power12"
+      }
+    },
+    {
+      "when": {
+        "power": 13,
+        "inverted": false
+      },
+      "apply": {
+        "model": "block/daylight_detector/daylight_detector_power13"
+      }
+    },
+    {
+      "when": {
+        "power": 13,
+        "inverted": true
+      },
+      "apply": {
+        "model": "block/daylight_detector/daylight_detector_inverted_power13"
+      }
+    },
+    {
+      "when": {
+        "power": 14,
+        "inverted": false
+      },
+      "apply": {
+        "model": "block/daylight_detector/daylight_detector_power14"
+      }
+    },
+    {
+      "when": {
+        "power": 14,
+        "inverted": true
+      },
+      "apply": {
+        "model": "block/daylight_detector/daylight_detector_inverted_power14"
+      }
+    },
+    {
+      "when": {
+        "power": 15,
+        "inverted": false
+      },
+      "apply": {
+        "model": "block/daylight_detector/daylight_detector_power15"
+      }
+    },
+    {
+      "when": {
+        "power": 15,
+        "inverted": true
+      },
+      "apply": {
+        "model": "block/daylight_detector/daylight_detector_inverted_power15"
+      }
+    }
+  ]
+}

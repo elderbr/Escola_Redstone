@@ -1,0 +1,36 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"power": "block/redstone/power00",
+		"number": "block/redstone/level15"
+	},
+	"elements": [
+		{
+			"name": "center",
+			"from": [6, 0, 6],
+			"to": [10, 1, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#power"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#power"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#power"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#power"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#power"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#power"}
+			}
+		},
+		{
+			"name": "number",
+			"from": [6, 1, 6],
+			"to": [10, 1.1, 10],
+			"faces": {
+				"north": {"uv": [0, 0, 2, 0.05], "texture": "#number"},
+				"east": {"uv": [0, 0, 2, 0.05], "texture": "#number"},
+				"south": {"uv": [0, 0, 2, 0.05], "texture": "#number"},
+				"west": {"uv": [0, 0, 2, 0.05], "texture": "#number"},
+				"up": {"uv": [2, 2, 15, 13], "texture": "#number"},
+				"down": {"uv": [0, 0, 2, 2], "texture": "#number"}
+			}
+		}
+	]
+}

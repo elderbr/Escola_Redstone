@@ -4,7 +4,7 @@
         "delay=1,facing=west,locked=false,powered=false": { "model": "block/repeater/1tick", "y": 90 },
         "delay=1,facing=north,locked=false,powered=false": { "model": "block/repeater/1tick", "y": 180 },
         "delay=1,facing=east,locked=false,powered=false": { "model": "block/repeater/1tick", "y": 270 },
-        "delay=2,facing=south,locked=false,powered=false": { "model": "block/repeater/1tick" },
+        "delay=2,facing=south,locked=false,powered=false": { "model": "block/repeater/2tick" },
         "delay=2,facing=west,locked=false,powered=false": { "model": "block/repeater/2tick", "y": 90 },
         "delay=2,facing=north,locked=false,powered=false": { "model": "block/repeater/2tick", "y": 180 },
         "delay=2,facing=east,locked=false,powered=false": { "model": "block/repeater/2tick", "y": 270 },

@@ -1,0 +1,8 @@
+{
+  "parent": "block/pressure_plate/pressure_plate_down",
+  "textures": {
+    "particle": "block/gold_block",
+    "texture": "block/gold_block",
+    "power": "block/pressure_plate/light_weighted_pressure_plate/pressure_plate_11"
+  }
+}

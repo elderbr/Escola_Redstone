@@ -14,6 +14,7 @@
 - Liberador
 - Tocha de Redstone
 - Alavanca
+- Placa de pressão de ouro
 - Pistão com Slime
 - Sensor de Luz
 - Alvo

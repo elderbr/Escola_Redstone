@@ -1,8 +1,9 @@
 
+
 # Escola Redstone
 
 **Essa textura modifica os componentes que utilizam redstone melhorando o seu entendimento trazendo algumas informações que são importantes para o seu funcionamento.**
-**Para o maior aproveitamento use ***OptiFine*****.
+**Para o maior aproveitamento use** [OptiFine](https://optifine.net/downloadx?f=preview_OptiFine_1.17.1_HD_U_G9_pre33.jar&x=9e6da6e950e944e8dd03eacc340b2d99).
 
 ## ***Itens modificados***
 
@@ -11,13 +12,13 @@
 - Repetidor
 - Observador
 - Ejetor
-- Funil
 - Liberador
+- Funil
 - Tocha de Redstone
 - Alavanca
+- Pistão com Slime
 - Placa de pressão de ouro
 - Placa de pressão de ferro
-- Pistão com Slime
 - Sensor de Luz
 - Alvo
 

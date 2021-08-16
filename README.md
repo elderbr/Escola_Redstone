@@ -15,6 +15,7 @@
 - Tocha de Redstone
 - Alavanca
 - Placa de pressão de ouro
+- Placa de pressão de ferro
 - Pistão com Slime
 - Sensor de Luz
 - Alvo

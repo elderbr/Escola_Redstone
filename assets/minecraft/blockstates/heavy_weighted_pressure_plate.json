@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "power=0": {
+      "model": "block/pressure_plate/heavy/heavy_power_00"
+    },
+    "power=1": {
+      "model": "block/pressure_plate/heavy/heavy_power_01"
+    },
+    "power=2": {
+      "model": "block/pressure_plate/heavy/heavy_power_02"
+    },
+    "power=3": {
+      "model": "block/pressure_plate/heavy/heavy_power_03"
+    },
+    "power=4": {
+      "model": "block/pressure_plate/heavy/heavy_power_04"
+    },
+    "power=5": {
+      "model": "block/pressure_plate/heavy/heavy_power_05"
+    },
+    "power=6": {
+      "model": "block/pressure_plate/heavy/heavy_power_06"
+    },
+    "power=7": {
+      "model": "block/pressure_plate/heavy/heavy_power_07"
+    },
+    "power=8": {
+      "model": "block/pressure_plate/heavy/heavy_power_08"
+    },
+    "power=9": {
+      "model": "block/pressure_plate/heavy/heavy_power_09"
+    },
+    "power=10": {
+      "model": "block/pressure_plate/heavy/heavy_power_10"
+    },
+    "power=11": {
+      "model": "block/pressure_plate/heavy/heavy_power_11"
+    },
+    "power=12": {
+      "model": "block/pressure_plate/heavy/heavy_power_12"
+    },
+    "power=13": {
+      "model": "block/pressure_plate/heavy/heavy_power_13"
+    },
+    "power=14": {
+      "model": "block/pressure_plate/heavy/heavy_power_14"
+    },
+    "power=15": {
+      "model": "block/pressure_plate/heavy/heavy_power_15"
+    }
+  }
+}

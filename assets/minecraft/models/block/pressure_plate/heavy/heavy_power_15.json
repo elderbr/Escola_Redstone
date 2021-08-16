@@ -1,0 +1,8 @@
+{
+  "parent": "block/pressure_plate/pressure_plate_down",
+  "textures": {
+    "particle": "block/iron_block",
+    "texture": "block/iron_block",
+    "power": "block/pressure_plate/heavy/heavy_power_15"
+  }
+}

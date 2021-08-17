@@ -1,0 +1,10 @@
+{
+  "credit": "ElderBR",
+  "parent": "block/daylight_detector/template_daylight_detector",
+  "textures": {
+    "particle": "block/daylight_detector/top",
+    "top": "block/daylight_detector/inverted",
+    "side": "block/daylight_detector/power_04",
+    "bottom": "block/daylight_detector/bottom"
+  }
+}

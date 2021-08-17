@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_column",
-  "textures": {
-    "end": "block/target_top",
-    "side": "block/target_side_power13"
-  }
-}

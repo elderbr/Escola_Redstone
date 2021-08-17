@@ -1,0 +1,7 @@
+{
+  "credit": "ElderBR",
+  "parent": "block/target/template_target",
+  "textures": {
+    "all": "block/target/power_12"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "credit": "ElderBR",
+  "parent": "block/redstone/template_redstone_dust_nusuwue",
+  "textures": {
+    "power": "block/redstone/power04",
+    "number": "block/redstone/level04"
+  }
+}

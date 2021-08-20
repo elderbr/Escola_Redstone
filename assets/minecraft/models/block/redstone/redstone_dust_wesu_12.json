@@ -2,9 +2,7 @@
   "credit": "ElderBR",
   "parent": "block/redstone/template_redstone_dust_wesu",
   "textures": {
-    "particle": "block/redstone_dust_dot",
     "power": "block/redstone/power12",
-    "continue": "block/redstone/power11",
     "number": "block/redstone/level12"
   }
 }

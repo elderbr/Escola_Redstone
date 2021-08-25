@@ -5,6 +5,11 @@
 **Essa textura modifica os componentes que utilizam redstone melhorando o seu entendimento trazendo algumas informações que são importantes para o seu funcionamento.**
 **Para o maior aproveitamento use** [OptiFine](https://optifine.net/downloadx?f=preview_OptiFine_1.17.1_HD_U_G9_pre33.jar&x=9e6da6e950e944e8dd03eacc340b2d99).
 
+## Novidades
+
+- Melhorada a textura do funcil
+- Adicionado funcil apontado para baixo com textura de seta sendo ele bloqueado ou não
+
 ## ***Itens modificados***
 
 - Pó de redstone

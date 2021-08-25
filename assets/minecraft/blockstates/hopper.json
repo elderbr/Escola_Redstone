@@ -6,7 +6,7 @@
                 "facing": "down"
             },
             "apply": {
-                "model": "block/hopper"
+                "model": "block/hopper/hopper_down_on"
             }
         },
         {
@@ -15,7 +15,7 @@
                 "facing": "down"
             },
             "apply": {
-                "model": "block/hopper"
+                "model": "block/hopper/hopper_down_off"
             }
         },
         {
@@ -24,7 +24,7 @@
                 "facing": "north"
             },
             "apply": {
-                "model": "block/hopper_side"
+                "model": "block/hopper/hopper_side"
             }
         },
         {
@@ -33,7 +33,7 @@
                 "facing": "north"
             },
             "apply": {
-                "model": "block/hopper_side_off"
+                "model": "block/hopper/hopper_side_off"
             }
         },
         {
@@ -42,7 +42,7 @@
                 "facing": "south"
             },
             "apply": {
-                "model": "block/hopper_side",
+                "model": "block/hopper/hopper_side",
                 "y": 180
             }
         },
@@ -52,7 +52,7 @@
                 "facing": "south"
             },
             "apply": {
-                "model": "block/hopper_side_off",
+                "model": "block/hopper/hopper_side_off",
                 "y": 180
             }
         },
@@ -62,7 +62,7 @@
                 "facing": "west"
             },
             "apply": {
-                "model": "block/hopper_side",
+                "model": "block/hopper/hopper_side",
                 "y": 270
             }
         },
@@ -72,7 +72,7 @@
                 "facing": "west"
             },
             "apply": {
-                "model": "block/hopper_side_off",
+                "model": "block/hopper/hopper_side_off",
                 "y": 270
             }
         },
@@ -82,7 +82,7 @@
                 "facing": "east"
             },
             "apply": {
-                "model": "block/hopper_side",
+                "model": "block/hopper/hopper_side",
                 "y": 90
             }
         },
@@ -92,7 +92,7 @@
                 "facing": "east"
             },
             "apply": {
-                "model": "block/hopper_side_off",
+                "model": "block/hopper/hopper_side_off",
                 "y": 90
             }
         }

@@ -5,7 +5,7 @@
 **Essa textura modifica os componentes que utilizam redstone melhorando o seu entendimento trazendo algumas informações que são importantes para o seu funcionamento.**
 **Para o maior aproveitamento use** [OptiFine](https://optifine.net/downloadx?f=preview_OptiFine_1.17.1_HD_U_G9_pre33.jar&x=9e6da6e950e944e8dd03eacc340b2d99).
 
-Faça o download da no Curso Forge 
+Faça o download da textura no Curso Forge 
 **[Escola Redstone](https://media.forgecdn.net/files/3763/975/Escola+Redstone+v1.3.zip)**
 
 ---

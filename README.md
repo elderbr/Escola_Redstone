@@ -6,7 +6,7 @@
 **Para o maior aproveitamento use** [OptiFine](https://optifine.net/downloadx?f=preview_OptiFine_1.17.1_HD_U_G9_pre33.jar&x=9e6da6e950e944e8dd03eacc340b2d99).
 
 Faça o download da textura no Curso Forge 
-**[Escola Redstone](https://media.forgecdn.net/files/3763/975/Escola+Redstone+v1.3.zip)**
+**[Escola Redstone](https://www.curseforge.com/minecraft/texture-packs/escola-redstone/files)**
 
 ---
 

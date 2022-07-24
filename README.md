@@ -58,6 +58,10 @@ Comparador trás uma nova textura trazendo melhor entendimento do seu funcioname
 Repetidor existe quatro níveis de delay ele ativo ou não, também tem o modo bloqueio, com a nossa textura foi consegue ver o seu nível facilitando o seu entendimento.
 
 ![Repetidor](https://github.com/elderbr/Escola_Redstone/blob/main/img/repetidor_01.png?raw=true)
+
+<p align="center">
+    <img width="150" height="150" src="https://github.com/elderbr/Escola_Redstone/blob/main/img/repeater.gif" title="Repeater" alt="Repeater">
+</p>
 ---
 
 ### Observador

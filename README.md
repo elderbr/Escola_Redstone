@@ -55,8 +55,10 @@ Sensor de Luz mostra o nivél de luz que está recebendo, tanto de dia quanto a 
 
 ![daylight detector](https://raw.githubusercontent.com/elderbr/Escola_Redstone/main/img/daylight_detector.gif)
 ---
-- Alvo
+### Alvo
+No alvo mostra o nivél de acerto do 1 ao 15
 
+![Target](https://raw.githubusercontent.com/elderbr/Escola_Redstone/main/img/target.gif)
 ---
 
 ### Pó de Redstone

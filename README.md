@@ -24,7 +24,12 @@ Ejetor contém um seta mostrando para onde está apontado.
 ![Dropper](https://raw.githubusercontent.com/elderbr/Escola_Redstone/main/img/dropper.gif)
 ---
 
-- Liberador
+### Liberador
+Liberador contém um seta mostrando para onde está apontado.
+
+![Liberador](https://raw.githubusercontent.com/elderbr/Escola_Redstone/main/img/dispenser.gif)
+---
+
 - Funil
 - Tocha de Redstone
 - Alavanca

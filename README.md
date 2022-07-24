@@ -37,7 +37,11 @@ Hopper contém um seta mostrando para onde está apontado.
 ---
 
 - Tocha de Redstone
-- Alavanca
+### Alavanca
+
+![Laver](https://raw.githubusercontent.com/elderbr/Escola_Redstone/main/img/level.png
+---
+
 - Pistão com Slime
 ### Placa de pressão de ouro
 Placa de pressão de ouro mostra o nivél de pressão que está sendo recebido

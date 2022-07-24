@@ -45,8 +45,9 @@ Alavanca contém leds que mostra o estado de ligado e desligado
 
 ### Pistão com Slime
 Pistão com slime mostra o slime no braço e cabeça
-
-![Stick Piston](https://raw.githubusercontent.com/elderbr/Escola_Redstone/main/img/stick_piston.gif)
+<p align="center">
+    <img src="https://raw.githubusercontent.com/elderbr/Escola_Redstone/main/img/stick_piston.gif" title="stick piston" alt="stick piston" />
+</p>
 ---
 
 ### Placa de pressão de ouro

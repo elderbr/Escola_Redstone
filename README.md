@@ -18,9 +18,10 @@ Faça o download da textura no Curso Forge
 ## ***Itens modificados***
 
 ### Dropper (Ejetor)
-<p align="center">
-    <img src="https://github.com/elderbr/Escola_Redstone/blob/main/img/dropper.gif" title="Dropper" alt="Dropper">
-</p>
+
+Ejetor contém um seta mostrando para onde está apontado.
+
+![Dropper](https://raw.githubusercontent.com/elderbr/Escola_Redstone/main/img/dropper.gif)
 ---
 
 - Liberador

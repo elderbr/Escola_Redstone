@@ -49,7 +49,10 @@ Placa de pressão de ouro mostra o nivél de pressão que está sendo recebido
 
 ![Placa de pressão de ouro](https://raw.githubusercontent.com/elderbr/Escola_Redstone/main/img/light_weighted_pressure_plate.gif)
 ---
-- Placa de pressão de ferro
+### Placa de pressão de ferro
+Placa de pressão de ferro mostra o nivél de pressão que está sendo recebido
+![heavy power](https://raw.githubusercontent.com/elderbr/Escola_Redstone/main/img/heavy_power.gif)
+
 ### Sensor de Luz
 Sensor de Luz mostra o nivél de luz que está recebendo, tanto de dia quanto a noite
 

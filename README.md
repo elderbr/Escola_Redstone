@@ -17,11 +17,12 @@ Faça o download da textura no Curso Forge
 
 ## ***Itens modificados***
 
-- Pó de redstone
-- Comparador
-- Repetidor
-- Observador
-- Ejetor
+### Dropper (Ejetor)
+<p align="center">
+    <img src="https://github.com/elderbr/Escola_Redstone/blob/main/img/dropper.gif" title="Dropper" alt="Dropper">
+</p>
+---
+
 - Liberador
 - Funil
 - Tocha de Redstone

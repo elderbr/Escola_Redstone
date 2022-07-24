@@ -38,6 +38,7 @@ Hopper contém um seta mostrando para onde está apontado.
 
 - Tocha de Redstone
 ### Alavanca
+Alavanca contém leds que mostra o estado de ligado e desligado
 
 ![Laver](https://raw.githubusercontent.com/elderbr/Escola_Redstone/main/img/level.png)
 ---

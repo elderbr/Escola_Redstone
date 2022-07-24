@@ -39,7 +39,7 @@ Hopper contém um seta mostrando para onde está apontado.
 - Tocha de Redstone
 ### Alavanca
 
-![Laver](https://raw.githubusercontent.com/elderbr/Escola_Redstone/main/img/level.png
+![Laver](https://raw.githubusercontent.com/elderbr/Escola_Redstone/main/img/level.png)
 ---
 
 - Pistão com Slime

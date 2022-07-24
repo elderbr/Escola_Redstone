@@ -30,7 +30,12 @@ Liberador contém um seta mostrando para onde está apontado.
 ![Liberador](https://raw.githubusercontent.com/elderbr/Escola_Redstone/main/img/dispenser.gif)
 ---
 
-- Funil
+### Funil
+Hopper contém um seta mostrando para onde está apontado.
+
+![Hopper](https://raw.githubusercontent.com/elderbr/Escola_Redstone/main/img/hopper_power_off.png)
+---
+
 - Tocha de Redstone
 - Alavanca
 - Pistão com Slime

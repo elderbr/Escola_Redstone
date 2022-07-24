@@ -27,7 +27,11 @@ Faça o download da textura no Curso Forge
 - Tocha de Redstone
 - Alavanca
 - Pistão com Slime
-- Placa de pressão de ouro
+### Placa de pressão de ouro
+Placa de pressão de ouro mostra o nivél de pressão que está sendo recebido
+
+![Placa de pressão de ouro](https://raw.githubusercontent.com/elderbr/Escola_Redstone/main/img/light_weighted_pressure_plate.gif)
+---
 - Placa de pressão de ferro
 - Sensor de Luz
 - Alvo

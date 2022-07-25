@@ -36,7 +36,12 @@ Hopper contém um seta mostrando para onde está apontado.
 ![Hopper](https://raw.githubusercontent.com/elderbr/Escola_Redstone/main/img/hopper_power_off.png)
 ---
 
-- Tocha de Redstone
+### Tocha de Redstone
+A tocha de redstone ganhou uma cara nova
+
+![redstone torch](https://raw.githubusercontent.com/elderbr/Escola_Redstone/main/img/redstone_torch.png)
+---
+
 ### Alavanca
 Alavanca contém leds que mostra o estado de ligado e desligado
 

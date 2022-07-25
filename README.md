@@ -53,6 +53,7 @@ Pistão com slime mostra o slime no braço e cabeça
 <p align="center">
     <img width="250" height="250" src="https://raw.githubusercontent.com/elderbr/Escola_Redstone/main/img/stick_piston.gif" title="stick piston" alt="stick piston" />
 </p>
+
 ---
 
 ### Placa de pressão de ouro

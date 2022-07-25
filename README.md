@@ -39,7 +39,7 @@ Hopper contém um seta mostrando para onde está apontado.
 ### Tocha de Redstone
 A tocha de redstone ganhou uma cara nova
 
-![redstone torch](https://raw.githubusercontent.com/elderbr/Escola_Redstone/main/img/redstone_torch.png)
+![redstone torch](https://raw.githubusercontent.com/elderbr/Escola_Redstone/main/img/redstone_torch.gif)
 ---
 
 ### Alavanca

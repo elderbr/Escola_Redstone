@@ -1,0 +1,10 @@
+{
+	"credit": "ElderBR",
+	"parent": "block/piston/template_piston",
+	"textures": {
+		"particle": "block/piston/piston_top_sticky",
+		"platform": "block/piston/piston_top_sticky",
+		"bottom": "block/piston/piston_bottom_sticky",
+		"side": "block/piston/piston_side_slime"
+	}
+}

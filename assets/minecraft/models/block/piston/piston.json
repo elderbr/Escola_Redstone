@@ -1,8 +1,9 @@
 {
-  "parent": "minecraft:block/template_piston",
+  "parent": "block/piston/template_piston",
   "textures": {
-    "platform": "minecraft:block/piston_top",
-    "bottom": "minecraft:block/piston_bottom",
-    "side": "minecraft:block/piston_side"
+    "particle": "block/piston/piston_top",
+    "bottom": "block/piston/piston_bottom",
+    "platform": "block/piston/piston_top",
+    "side": "block/piston/piston_side"
   }
 }

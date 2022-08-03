@@ -1,9 +1,8 @@
 {
-	"credit": "ElderBR",
+	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
 		"platform_bottom": "block/piston/piston_top",
-		"particle": "block/piston/piston_head",
 		"piston_arm": "block/piston/piston_head"
 	},
 	"elements": [
@@ -22,8 +21,8 @@
 		},
 		{
 			"name": "arm_01",
-			"from": [6, 6, 8],
-			"to": [10, 10, 16],
+			"from": [6, 6, 12],
+			"to": [10, 10, 21],
 			"faces": {
 				"north": {"uv": [0, 5, 2, 7], "texture": "#piston_arm"},
 				"east": {"uv": [0, 0, 4, 2], "texture": "#piston_arm"},
@@ -35,7 +34,7 @@
 		{
 			"name": "arm_02",
 			"from": [6.5, 6.5, 4],
-			"to": [9.5, 9.5, 8],
+			"to": [9.5, 9.5, 12],
 			"faces": {
 				"east": {"uv": [7, 0, 9, 1.5], "texture": "#piston_arm"},
 				"west": {"uv": [7, 2, 9, 3.5], "texture": "#piston_arm"},

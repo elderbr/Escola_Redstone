@@ -1,11 +1,18 @@
 {
 	"credit": "ElderBR",
+	"textures": {
+		"side": "block/piston/piston_side",
+		"bottom": "block/piston/piston_bottom",
+		"particle": "block/piston/piston_top",
+		"plataform_top": "block/piston/piston_top"
+	},
 	"elements": [
 		{
+			"name": "piston",
 			"from": [0, 0, 0],
 			"to": [16, 16, 16],
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#platform"},
+				"north": {"uv": [0, 0, 16, 16], "texture": "#plataform_top"},
 				"east": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#side"},
 				"south": {"uv": [0, 0, 16, 16], "texture": "#bottom"},
 				"west": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#side"},

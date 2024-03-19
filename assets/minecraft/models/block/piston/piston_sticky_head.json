@@ -1,9 +1,0 @@
-{
-	"credit": "ElderBR",
-	"parent": "block/piston/templete_piston_head",
-	"textures": {
-		"particle": "block/piston/piston_top_sticky",
-		"platform": "block/piston/piston_top_sticky",
-		"side": "block/piston/piston_side_slime"
-	}
-}

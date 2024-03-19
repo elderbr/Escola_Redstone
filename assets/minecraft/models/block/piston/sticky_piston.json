@@ -1,9 +1,10 @@
 {
-	"credit": "Made with Blockbench",
-	"parent": "block/piston/template_sticky_piston",
+	"credit": "ElderBR",
+	"parent": "block/piston/template_piston",
 	"textures": {
-		"platform": "block/piston_top_sticky",
-		"bottom": "block/piston_bottom",
-		"side": "block/piston_side_slime"
+		"particle": "block/piston/sticky_top",
+        "side": "block/piston/sticky_side",
+		"bottom": "block/piston/sticky_bottom",
+		"plataform_top": "block/piston/sticky_top"
 	}
 }

@@ -2,10 +2,10 @@
 	"credit": "ElderBR",
 	"parent": "block/piston/template_piston_head",
 	"textures": {
-		"particle": "block/piston/piston_top",
+		"particle": "block/piston/piston_head_bottom",
 		"plataform_bottom": "block/piston/piston_head_bottom",
 		"plataform_arm": "block/piston/piston_head",
-		"side": "block/piston/piston_side",
-		"top": "block/piston/piston_top"
+		"side": "block/piston/sticky_side",
+		"top": "block/piston/sticky_top"
 	}
 }

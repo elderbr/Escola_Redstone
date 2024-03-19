@@ -1,9 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "block/piston/template_sticky_piston_head",
-	"textures": {
-		"platform": "block/piston_top_sticky",
-		"side": "block/piston_side_slime",
-		"unsticky": "block/piston_top"
-	}
-}

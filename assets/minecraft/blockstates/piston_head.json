@@ -13,7 +13,7 @@
       "x": 90
     },
     "facing=down,short=true,type=sticky": {
-      "model": "block/piston/piston_sticky_head_short",
+      "model": "block/piston/sticky_head_short",
       "x": 90
     },
     "facing=east,short=false,type=normal": {
@@ -29,7 +29,7 @@
       "y": 90
     },
     "facing=east,short=true,type=sticky": {
-      "model": "block/piston/piston_sticky_head_short",
+      "model": "block/piston/sticky_head_short",
       "y": 90
     },
     "facing=north,short=false,type=normal": {
@@ -57,7 +57,7 @@
       "y": 180
     },
     "facing=south,short=true,type=sticky": {
-      "model": "block/piston/piston_sticky_head_short",
+      "model": "block/piston/sticky_head_short",
       "y": 180
     },
     "facing=up,short=false,type=normal": {
@@ -73,7 +73,7 @@
       "x": 270
     },
     "facing=up,short=true,type=sticky": {
-      "model": "block/piston/piston_sticky_head_short",
+      "model": "block/piston/sticky_head_short",
       "x": 270
     },
     "facing=west,short=false,type=normal": {
@@ -89,7 +89,7 @@
       "y": 270
     },
     "facing=west,short=true,type=sticky": {
-      "model": "block/piston/piston_sticky_head_short",
+      "model": "block/piston/sticky_head_short",
       "y": 270
     }
   }

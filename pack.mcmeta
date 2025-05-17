@@ -1,8 +1,8 @@
 {
    "pack": {
-      "pack_format": 34,
+      "pack_format": 46,
       "description": "§6Easy Redstone\n§rCreator: §a§lElderBR",
-	  "creator": "ElderBR",
-	  "Discord": "ElderBR#5398"
+      "creator": "ElderBR",
+      "Discord": "ElderBR#5398"
    }
 }
